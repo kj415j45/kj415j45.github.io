@@ -1,1 +1,4 @@
-A noob student.
+# A noob student.
+
+- [Livestream](/live)
+  - [Watch me playing osu! ingame](/osu)
